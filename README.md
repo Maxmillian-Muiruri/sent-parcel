@@ -641,89 +641,7 @@ npx prisma migrate deploy
 npx prisma generate
 ```
 
----
 
-## 🤝 Contributing
-
-We welcome contributions to SendIT! Here's how you can help:
-
-### **Getting Started**
-
-1. **Fork the repository**
-
-   ```bash
-   git clone https://github.com/your-username/Send-IT.git
-   cd Send-IT
-   ```
-
-2. **Create a feature branch**
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-3. **Make your changes**
-
-   - Follow the existing code style
-   - Add tests for new features
-   - Update documentation as needed
-
-4. **Test your changes**
-
-   ```bash
-   # Backend tests
-   cd sendit-backend
-   npm run test
-
-   # Frontend tests
-   cd sendit-frontend
-   npm run test
-   ```
-
-5. **Commit and push**
-
-   ```bash
-   git add .
-   git commit -m "feat: add your feature description"
-   git push origin feature/your-feature-name
-   ```
-
-6. **Create a Pull Request**
-   - Describe your changes
-   - Link any related issues
-   - Wait for review and approval
-
-### **Development Guidelines**
-
-- **Code Style**: Follow TypeScript and Angular style guides
-- **Commits**: Use conventional commit messages
-- **Testing**: Write tests for new features and bug fixes
-- **Documentation**: Update README and code comments
-- **Performance**: Consider performance implications of changes
-
-### **Reporting Issues**
-
-- Use GitHub Issues to report bugs
-- Provide detailed reproduction steps
-- Include environment information
-- Add screenshots for UI issues
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### **MIT License Summary**
-
-- ✅ **Commercial use** - Use for commercial purposes
-- ✅ **Modification** - Modify the source code
-- ✅ **Distribution** - Distribute the software
-- ✅ **Private use** - Use privately
-- ❌ **Liability** - No liability for damages
-- ❌ **Warranty** - No warranty provided
-
----
 
 ## 📁 Folder Structure
 
@@ -941,9 +859,8 @@ Send-IT/
 
 ## 📞 Support & Contact
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/Maxmillian-Muiruri/Send-IT/issues)
 - **Email**: [maxmillianmuiruri@gmail.com](mailto:maxmillianmuiruri@gmail.com)
-- **LinkedIn**: [Maxmillian Muiruri](https://linkedin.com/in/maxmillian-muiruri)
+- **LinkedIn**: [Maxmillian Muiruri](https://www.linkedin.com/in/maxmillin-muiruri-njuguna/)
 
 ---
 
